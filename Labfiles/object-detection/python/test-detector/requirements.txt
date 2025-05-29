@@ -1,2 +1,3 @@
 dotenv
 matplotlib
+azure-cognitiveservices-vision-customvision
